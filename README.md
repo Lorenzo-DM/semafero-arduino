@@ -14,7 +14,7 @@ stagnatore
 
 ## Istruzioni
 
-Xollegare i Pin di arduino 3,4,5 ai led con le resistenze, e i catodi del dei ad una terra dell'Arduino.
+Collegare i Pin di arduino 3,4,5 ai led con le resistenze, e i catodi del dei ad una terra dell'Arduino.
 Caricare il codice sulla scheda (il programmatore deve essere settato a 5volt)
 
 ## Risorse
