@@ -1,24 +1,24 @@
 # semafero-arduino
 
-Simpatico modellino che riproduce il semafero, rispettando pure le tempistiche reali. (per il meme)
+Cute model that reproduces the traffic light, respecting the actual timing. (for the meme)
 
-## Necessario
+## Requirements
 
-3 led (verde, arancione, rosso),
-3 resistori 220 ohm,
-arduino pro mini,
-programmatore arduino,
-stampante 3d,
-cavetti di collegamento,
-stagnatore
+3 LEDs (green, orange, red),
+3 x 220 ohm resistors,
+esp 8266,
+3d printer,
+connection cables,
+soldering iron
 
-## Istruzioni
+## Instructions
 
-Collegare i Pin di arduino 3,4,5 ai led con le resistenze, e i catodi del dei ad una terra dell'Arduino.
-Caricare il codice sulla scheda (il programmatore deve essere settato a 5volt)
+Connect arduino pins 3,4,5 to the leds with resistors, and the cathodes of the gods to a ground on the Arduino.
+Enter the credentials of your wifi modem and upload the code to the board.
+The program can also run without an internet connection, the timing will be the same, but it will not be synchronised with the site
 
-## Risorse
+## Resources
 
-Modello 3d semaforo: https://www.thingiverse.com/thing:3469713
+3D traffic light model: https://www.thingiverse.com/thing:3469713
 
-Visita il sito! https://semafero.vercel.app/
+Visit the site! https://semafero.vercel.app/
